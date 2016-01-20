@@ -1,4 +1,4 @@
-﻿namespace ContosoUniversity.ViewModels
+﻿namespace CybersynUniversity.Models.ViewModels
 {
     public class AssignedCourseData
     {

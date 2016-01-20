@@ -1,4 +1,4 @@
-namespace ContosoUniversity.Migrations
+namespace CybersynUniversity.Models.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;

@@ -1,8 +1,8 @@
-﻿using ContosoUniversity.Models;
+﻿using CybersynUniversity.Models;
 using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
 
-namespace ContosoUniversity.DAL
+namespace CybersynUniversity.Models.DAL
 {
     public class SchoolContext : DbContext
     {

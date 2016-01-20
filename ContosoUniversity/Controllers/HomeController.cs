@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using ContosoUniversity.DAL;
-using ContosoUniversity.ViewModels;
+using CybersynUniversity.Models.DAL;
+using CybersynUniversity.Models.ViewModels;
 
 
-namespace ContosoUniversity.Controllers
+namespace CybersynUniversity.Models.Controllers
 {
     public class HomeController : Controller
     {

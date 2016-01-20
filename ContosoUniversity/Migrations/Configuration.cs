@@ -1,7 +1,7 @@
-namespace ContosoUniversity.Migrations
+namespace CybersynUniversity.Models.Migrations
 {
-    using ContosoUniversity.Models;
-    using ContosoUniversity.DAL;
+    using CybersynUniversity.Models;
+    using CybersynUniversity.Models.DAL;
     using System;
     using System.Collections.Generic;
     using System.Data.Entity;

@@ -6,12 +6,12 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
-using ContosoUniversity.DAL;
-using ContosoUniversity.Models;
+using CybersynUniversity.Models.DAL;
+using CybersynUniversity.Models;
 using PagedList;
 using System.Data.Entity.Infrastructure;
 
-namespace ContosoUniversity.Controllers
+namespace CybersynUniversity.Models.Controllers
 {
     public class StudentController : Controller
     {

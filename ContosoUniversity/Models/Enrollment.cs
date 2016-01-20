@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace ContosoUniversity.Models
+namespace CybersynUniversity.Models
 {
     public enum Grade
     {

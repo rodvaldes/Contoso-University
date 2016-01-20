@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using ContosoUniversity.Models;
+using CybersynUniversity.Models;
 
-namespace ContosoUniversity.ViewModels
+namespace CybersynUniversity.Models.ViewModels
 {
     public class InstructorIndexData
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ContosoUniversity.Logging
+namespace CybersynUniversity.Models.Logging
 {
     public interface ILogger
     {
