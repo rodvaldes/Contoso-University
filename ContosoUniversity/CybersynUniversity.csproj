@@ -192,6 +192,13 @@
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <None Include="Automatizacion\cysncb.pubxml" />
+    <Content Include="Automatizacion\New-AzureSql.ps1" />
+    <Content Include="Automatizacion\New-AzureStorage.ps1" />
+    <Content Include="Automatizacion\Publish-AzureWebsite.ps1" />
+    <Content Include="Automatizacion\pubxml.template" />
+    <Content Include="Automatizacion\SetupAmbiente.ps1" />
+    <Content Include="Automatizacion\website-environment.template" />
     <None Include="Properties\PublishProfiles\cysncb - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
